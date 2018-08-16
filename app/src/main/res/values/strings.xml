@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorkWithGradle</string>
+    <string name="button_text_main">JOKE</string>
+</resources>
